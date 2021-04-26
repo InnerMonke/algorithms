@@ -12,5 +12,5 @@ interface User {
  * @returns List of adult users
  */
 export default function filterAdults(users: User[]): User[] {
-  return users;
+  return [];
 }
