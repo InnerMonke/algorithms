@@ -1,21 +1,21 @@
 {
   "name": "algorithms",
   "version": "1.0.0",
-  "description": "Algorithms and data structures exercises using JavaScript. ",
+  "description": "Algorithms and array method exercises using TypeScript. ",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cakebatterandsprinkles/algorithms.git"
+    "url": "git+https://github.com/alitas/algorithms.git"
   },
-  "author": "cakebatterandsprinkles",
+  "author": "alitas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cakebatterandsprinkles/algorithms/issues"
+    "url": "https://github.com/alitas/algorithms/issues"
   },
-  "homepage": "https://github.com/cakebatterandsprinkles/algorithms#readme",
+  "homepage": "https://github.com/alitas/algorithms#readme",
   "dependencies": {
     "@types/faker": "^5.5.3",
     "@types/jest": "^26.0.23",
