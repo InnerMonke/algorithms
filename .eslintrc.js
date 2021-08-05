@@ -5,7 +5,6 @@ module.exports = {
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
   ],
-  plugins: ["sort-keys-fix", "sort-destructure-keys"],
   rules: {
     "max-lines": ["error", { max: 300 }],
     "no-nested-ternary": "error",
